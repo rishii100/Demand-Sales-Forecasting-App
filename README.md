@@ -1,4 +1,4 @@
-#  🚀 Sales F🤑recasting App  🚀 
+#  🚀 Sales Forecasting App  🚀 
 
 
 ## Summary
